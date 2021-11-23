@@ -62,7 +62,7 @@ const App = () => {
         </div>
 
         <div className="bio">
-          I am farza and I worked on self-driving cars so that's pretty cool right? Connect your Ethereum wallet and wave at me!
+          I'm Jatin and I applied deep learning to cancer images. Connect your Ethereum wallet and wave at me!
         </div>
 
         <button className="waveButton" onClick={null}>
